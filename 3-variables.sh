@@ -1,7 +1,7 @@
 #!/big/bash
 
-friend1=Pavan
-friend2=Vada
+friend1=$1
+friend2=$2
 
 echo "$friend1: Hello, How are you"
 echo "$friend2: Hello, I am good. How are you"
