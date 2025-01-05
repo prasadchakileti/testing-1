@@ -2,6 +2,6 @@
 
 echo "Enter friend name:"
 
-read Friend
+read -s Friend
 
 echo "Friend name is $Friend"
