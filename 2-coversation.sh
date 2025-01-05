@@ -1,4 +1,4 @@
-#!/big/bash
+#!/bin/bash
 
 friend1=Pavan
 friend2=Vada

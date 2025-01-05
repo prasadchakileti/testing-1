@@ -1,4 +1,4 @@
-#!/big/bash
+#!/bin/bash
 
 friend1=$1
 friend2=$2
