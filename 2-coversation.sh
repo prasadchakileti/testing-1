@@ -1,6 +1,9 @@
 #!/big/bash
 
-echo "Pavan: Hello, How are you"
-echo "Vada: Hello, I am good. How are you"
-echo "Pavan: I am good. when do you come to banaglore"
-echo "Vada: I will come in next month"
+friend1=Pavan
+friend2=Vada
+
+echo "$friend1: Hello, How are you"
+echo "$friend2: Hello, I am good. How are you"
+echo "$friend1: I am good. when do you come to banaglore"
+echo "$friend2: I will come in next month"
