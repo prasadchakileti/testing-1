@@ -1,8 +1,6 @@
 #!/bin/bash
 
-echo "enter the number:"
-
-read -s $number
+number=$1
 
 if [ $number -gt 100 ];
 then
